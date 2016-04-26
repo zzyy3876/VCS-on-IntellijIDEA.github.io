@@ -1,8 +1,6 @@
-
-
 关于在windows 里面配置git的环境变量：
 
-将C:\Users\Weiran Liu\AppData\Local\GitHub \PortableGit_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\bin
+需要做的是：将C:\Users\Weiran Liu\AppData\Local\GitHub \PortableGit_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\bin
 加入到环境变量里面，如下操作：
 
 1、 找到git安装路径中bin的位置，如：C:\Users\Weiran Liu\AppData\Local\GitHub\
