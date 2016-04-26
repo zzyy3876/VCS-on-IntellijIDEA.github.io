@@ -5,8 +5,12 @@
 将C:\Users\Weiran Liu\AppData\Local\GitHub \PortableGit_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\bin
 加入到环境变量里面，如下操作：
 
-1、 找到git安装路径中bin的位置，如：C:\Users\Weiran Liu\AppData\Local\GitHub \PortableGit_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\bin
-找到git安装路径中cmd的位置，如：C:\Users\Weiran Liu\AppData\Local\GitHub \PortableGit_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\cmd
+1、 找到git安装路径中bin的位置，如：C:\Users\Weiran Liu\AppData\Local\GitHub\
+     PortableGit_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\bin
+    找到git安装路径中cmd的位置，如：C:\Users\Weiran Liu\AppData\Local\GitHub\
+     PortableGit_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\cmd
 
-2、右键“计算机”->“属性”->“高级系统设置”->“环境变量”->在下方的“系统变量”中找到“path”->选中“path”并选择“编辑”->将3.1种找到的bin和git-core路径复制到其中->保存并退出
+2、右键“计算机”->“属性”->“高级系统设置”->“环境变量”->在下方的“系统变量”中找到“path”->选中“path”并选择“编辑”->
+   将找到的bin和cmd路径复制到其中->保存并退出
+
 注：“path”中，每个路径之间要以英文输入状态下的分号——“;”作为间隔
